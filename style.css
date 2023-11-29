@@ -1,0 +1,220 @@
+body {
+    font-family: sans-serif;
+    margin: 80px 20px;
+    padding: 10px;
+    background-color: rgb(248, 238, 238);
+  
+  
+    color:#fff
+  }
+  
+  header {
+    background-color: #0a0a0a;
+    color: #fff;
+    padding: 20px;
+    border: 1px solid black;
+    border-radius: 20px;
+    background-image: url(https://a-static.besthdwallpaper.com/van-riding-wallpaper-3554x1999-104371_53.jpg);
+  }
+  
+  .logo {
+    width: 100px;
+    height: auto;
+  }
+  
+  nav ul {
+    list-style: none;
+    margin: 10px;
+    padding: 20px;
+  }
+  
+  nav li {
+    display: inline-block;
+    padding: 10px;
+  }
+  
+  nav a {
+    color: #fff;
+    text-decoration: none;
+  }
+  
+  main {
+    padding: 20px;
+  }
+  
+  .hero {
+    text-align: center;
+    color:black;
+    border: 3px solid black;
+    border-radius: 20px;
+    padding: 20px;
+    margin: 150px;
+  }
+  
+  .hero img {
+    width: 500px;
+    height: auto;
+    margin-bottom: 20px;
+    margin-top: 20px;
+  }
+  
+  .hero h1 {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  .hero p {
+    font-size: 16px;
+    line-height: 1.5;
+  }
+  
+  .hero button {
+    background-color: #007bff;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+     }
+
+  .flex-container{
+    display:flex
+
+  }
+  .featured{
+    background-color: rgb(15, 15, 15);    margin:100px 10px;
+    text-align: center;
+    text-transform: uppercase;
+    padding: 20px;
+    border: 2px solid black;
+    border-radius: 20px;
+    width: 1160px;
+    
+    
+    
+  }
+
+  .album{
+    margin: 20px;
+    padding: 7px;
+    border: 3px solid rgb(255, 252, 252);
+    border-radius:20px;
+    background-color: white;
+    color:black
+  }
+
+  .album-info{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  }
+
+  title{
+    text-align:center;
+  }
+
+  .happy {
+    display: flex;
+    width: 500px;
+    margin: 100px 20px auto;
+    padding: 20px;
+
+  }
+  .live{
+    font-size: 30px;
+    display: flex;
+    text-align: center ;
+
+  }
+
+  .joy{
+    text-align: center;
+    margin: 10px;
+    padding: 0px;
+    color:#0a0a0a;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-stretch: expanded;
+  }
+
+  .lofi{
+    background-color: black;
+    color:#fff;
+    padding:20px;
+    margin:150px 20px;
+    border: 1px solid black;
+    border-radius: 20px;
+    background-image: url(https://th.bing.com/th?id=OIP.RjGnnmYIfLgsycrmge8gVQHaEK&w=333&h=187&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2);
+    height: 150px;
+    width: 1150px;
+    }
+.words{
+    color:black;
+    display: flex;
+    background-color: #e6afaf;
+    border: 2px solid #e6afaf;
+    border-radius: 20px;
+    padding: 10px;
+}
+#wrds{
+    font-size:50px;
+    max-width: fit-content;
+
+}
+
+#wods{
+    font-size: 10px;
+    margin:30px;
+    height: 500px;
+    width: 800px;
+    align-items: center;
+}
+
+  
+
+  .explore{
+    background-color: black;
+    margin: 200px;
+    padding: 30px;
+    text-align: center;
+    width:800px;
+    border: 2px solid black;
+    border-radius: 20px;
+  }
+   .genre-container{
+    display:flex;
+    padding: 10px;
+    background-color: #fff;
+    color:black;
+   }
+   .genre{
+    border:2px solid black;
+    border-radius:20px;
+    padding:10px;
+   }
+
+   footer{
+    color:#0a0a0a;
+   }
+
+   .heyy{
+    display:flex;
+    padding: 10px;
+    background-color: #fff;
+    color:black;
+      background-image: url(https://th.bing.com/th/id/OIP.VckDtgzlUvyNiC1uShimYAHaDr?w=325&h=173&c=7&r=0&o=5&pid=1.7);
+      height:200px;
+      border: 1px solid black;
+      border-radius:20px;
+    }
+
+   .jelly{
+    display:flex;
+    padding: 10px;
+    background-color: #fff;
+    color:black;
+    background-image: url(https://th.bing.com/th/id/OIP.T0mOhkqAkGiCJRSjoGbdHAHaE8?rs=1&pid=ImgDetMain);
+    height:200px;
+    border:1px solid black;
+    border-radius:20px;
+    
+   }
+
+
